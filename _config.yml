@@ -6,9 +6,10 @@ color:
   saturation: 0.12936421274207532
   rhythmicContrast: 0.6925474770832807
   brandColors:
-    - '#292929'
-    - '#5B7876'
-    - '#8F9E8B'
-    - '#F2E6B6'
-    - '#412A22'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: Barnstormer Pictures
+title: Moving Image Makers
